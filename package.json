@@ -1,0 +1,47 @@
+{
+  "name": "sfdc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@lucky-canvas/vue": "^0.0.5",
+    "animate.css": "^4.1.1",
+    "axios": "^0.24.0",
+    "core-js": "^2.6.5",
+    "element-ui": "^2.15.6",
+    "gifler": "0.1.0",
+    "html2canvas": "1.0.0-rc.4",
+    "jquery": "^3.6.0",
+    "konva": "^8.3.0",
+    "lottie-web": "^5.8.1",
+    "normalize.css": "^8.0.1",
+    "nprogress": "^0.2.0",
+    "postcss-px2rem": "^0.3.0",
+    "px2rem-loader": "^0.1.9",
+    "register-service-worker": "^1.6.2",
+    "vue": "^2.6.10",
+    "vue-konva": "^2.1.7",
+    "vue-ls": "^4.0.0",
+    "vue-router": "^3.0.3",
+    "vue-touch": "^2.0.0-beta.4",
+    "vue2-toast": "^2.1.0",
+    "vuex": "^3.0.1",
+    "weixin-js-sdk": "1.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.0",
+    "@vue/cli-plugin-eslint": "^3.0.0",
+    "@vue/cli-service": "^3.0.0",
+    "babel-eslint": "^10.0.1",
+    "babel-polyfill": "^6.26.0",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "less": "^3.0.4",
+    "less-loader": "^5.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
